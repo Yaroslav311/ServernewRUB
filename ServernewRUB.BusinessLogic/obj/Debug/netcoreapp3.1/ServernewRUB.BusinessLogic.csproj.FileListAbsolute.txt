@@ -1,0 +1,12 @@
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\bin\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.Core.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\obj\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\obj\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\obj\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.AssemblyInfo.cs
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\bin\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.deps.json
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\bin\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\bin\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.pdb
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\bin\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.Core.pdb
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\obj\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\obj\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.csproj.CopyComplete
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\obj\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.BusinessLogic\obj\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.pdb

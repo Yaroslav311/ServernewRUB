@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.deps.json
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.pdb
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess.Core\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.pdb

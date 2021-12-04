@@ -1,0 +1,7 @@
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.deps.json
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.pdb
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.AssemblyInfo.cs
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.pdb

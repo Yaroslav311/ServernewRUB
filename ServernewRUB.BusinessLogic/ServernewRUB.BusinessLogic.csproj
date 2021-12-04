@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServernewRUB.BusinessLogic.Core\ServernewRUB.BusinessLogic.Core.csproj" />
+    <ProjectReference Include="..\ServernewRUB.DataAccess.Core\ServernewRUB.DataAccess.Core.csproj" />
+  </ItemGroup>
+
+</Project>
