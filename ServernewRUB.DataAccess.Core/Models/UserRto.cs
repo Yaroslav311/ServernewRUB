@@ -11,7 +11,7 @@ namespace ServernewRUB.DataAccess.Core.Models
         public bool isBoy { get; set; }
         [Required] public int PhoneNumberPrefix { get; set; }
         [Required] public int PhoneNumber { get; set; }
-        [Required, MinLength(7)] public int Password { get; set; }
+        [Required, MinLength(7)] public string Password { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Patronymic { get; set; }

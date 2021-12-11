@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ServernewRUB.BusinessLogic.Core\ServernewRUB.BusinessLogic.Core.csproj" />
     <ProjectReference Include="..\ServernewRUB.DataAccess.Core\ServernewRUB.DataAccess.Core.csproj" />
+    <ProjectReference Include="..\ServernewRUB.Shared\ServernewRUB.Shared.csproj" />
   </ItemGroup>
 
 </Project>

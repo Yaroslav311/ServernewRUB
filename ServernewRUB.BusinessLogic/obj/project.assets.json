@@ -269,6 +269,16 @@
         "runtime": {
           "bin/placeholder/ServernewRUB.DataAccess.Core.dll": {}
         }
+      },
+      "ServernewRUB.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ServernewRUB.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServernewRUB.Shared.dll": {}
+        }
       }
     }
   },
@@ -833,13 +843,19 @@
       "type": "project",
       "path": "../ServernewRUB.DataAccess.Core/ServernewRUB.DataAccess.Core.csproj",
       "msbuildProject": "../ServernewRUB.DataAccess.Core/ServernewRUB.DataAccess.Core.csproj"
+    },
+    "ServernewRUB.Shared/1.0.0": {
+      "type": "project",
+      "path": "../ServernewRUB.Shared/ServernewRUB.Shared.csproj",
+      "msbuildProject": "../ServernewRUB.Shared/ServernewRUB.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper >= 10.1.1",
       "ServernewRUB.BusinessLogic.Core >= 1.0.0",
-      "ServernewRUB.DataAccess.Core >= 1.0.0"
+      "ServernewRUB.DataAccess.Core >= 1.0.0",
+      "ServernewRUB.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -878,6 +894,9 @@
             },
             "C:\\Users\\StudentDev\\Desktop\\ServernewRUB\\ServernewRUB.DataAccess.Core\\ServernewRUB.DataAccess.Core.csproj": {
               "projectPath": "C:\\Users\\StudentDev\\Desktop\\ServernewRUB\\ServernewRUB.DataAccess.Core\\ServernewRUB.DataAccess.Core.csproj"
+            },
+            "C:\\Users\\StudentDev\\Desktop\\ServernewRUB\\ServernewRUB.Shared\\ServernewRUB.Shared.csproj": {
+              "projectPath": "C:\\Users\\StudentDev\\Desktop\\ServernewRUB\\ServernewRUB.Shared\\ServernewRUB.Shared.csproj"
             }
           }
         }
