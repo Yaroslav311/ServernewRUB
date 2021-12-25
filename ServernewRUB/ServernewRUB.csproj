@@ -8,5 +8,26 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.22">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.22">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServernewRUB.BusinessLogic.Core\ServernewRUB.BusinessLogic.Core.csproj" />
+    <ProjectReference Include="..\ServernewRUB.BusinessLogic\ServernewRUB.BusinessLogic.csproj" />
+    <ProjectReference Include="..\ServernewRUB.Core\ServernewRUB.Core.csproj" />
+    <ProjectReference Include="..\ServernewRUB.DataAccess\ServernewRUB.DataAccess.csproj" />
+  </ItemGroup>
+
 
 </Project>

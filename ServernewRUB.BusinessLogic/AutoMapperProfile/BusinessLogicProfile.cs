@@ -26,7 +26,7 @@ namespace ServernewRUB.BusinessLogic.AutoMapperProfile
                 .ForMember(x => x.password, x => x.MapFrom(m => m.password))
                 .ForMember(x => x.FirstName, x => x.MapFrom(m => m.FirstName))
                 .ForMember(x => x.LastName, x => x.MapFrom(m => m.LastName))
-                .ForMember(x => x.Patronymic, x => x.MapFrom(m => m.Patronymic))0
+                .ForMember(x => x.Patronymic, x => x.MapFrom(m => m.Patronymic))
                 .ForMember(x => x.Birthday, x => x.MapFrom(m => m.Birthday))
                 .ForMember(x => x.AvatarUrl, x => x.MapFrom(m => m.AvatarUrl));
         }
