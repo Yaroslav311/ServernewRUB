@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿using AutoMapper; 
 using Microsoft.EntityFrameworkCore;
 using ServernewRUB.BusinessLogic.Core.interfaces;
 using ServernewRUB.BusinessLogic.Core.Models;
@@ -74,9 +74,9 @@ namespace ServernewRUB.BusinessLogic.Serices
         /// <param name="number">номер</param>
         /// <param name="password">пароль</param>
         /// <returns>Объект UserInformationBlo</returns>
-        public async Task<UserInformationBlo> Registration( int numberPrefix, int phoneNumber, int number, string password)
+        public async Task<UserInformationBlo> Registration(int numberPrefix, int phoneNumber, int number, string password)
         {
-            UserRto newUser = new UserRto() { PhoneNumberPrefix = numberPrefix, PhoneNumber = number, Password = password}; 
+            UserRto newUser = new UserRto() { PhoneNumberPrefix = numberPrefix, PhoneNumber = number, Password = password };
             _context.Users.Add(newUser);
 
             await _context.SaveChangesAsync();
@@ -87,7 +87,7 @@ namespace ServernewRUB.BusinessLogic.Serices
         /// </summary>
         /// <param name="numberPrefix">Код номера страны</param>        /// <param name="PhoneNumber">номер телефона</param>
         /// <param name="number">номер</param>
-        /// <param name="password">пароль</param>
+        /// <param name="password">пароль</param> 
         /// <param name="userUpdateBlo">Пакет новой информацииб какой надо заменить </param>
         /// <returns>Объект UserInformationBlo</returns>
         public async Task<UserInformationBlo> Update(int numberPrefix, int PhoneNumber, int number, string password, UserUpdateBlo userUpdateBlo)
@@ -97,13 +97,13 @@ namespace ServernewRUB.BusinessLogic.Serices
             if (user == null)
                 throw new NoteFoundException("Пользователь не найден");
 
-            if (userUpdateBlo.isBoy      != null)   user.isBoy      = userUpdateBlo.isBoy;
-            if (userUpdateBlo.password   != null)   user.password   = userUpdateBlo.password;
-            if (userUpdateBlo.FirstName  != null)   user.FirstName  = userUpdateBlo.FirstName;
-            if (userUpdateBlo.LastName   != null)   user.LastName   = userUpdateBlo.LastName;
-            if (userUpdateBlo.Patronymic != null)   user.Patronymic = userUpdateBlo.Patronymic;
-            if (userUpdateBlo.Birthday   != null)   user.Birthday   = userUpdateBlo.Birthday;
-            if (userUpdateBlo.AvatarUrl  != null)   user.AvatarUrl  = userUpdateBlo.AvatarUrl;
+            if (userUpdateBlo.isBoy != null) user.isBoy = userUpdateBlo.isBoy;
+            if (userUpdateBlo.password != null) user.password = userUpdateBlo.password;
+            if (userUpdateBlo.FirstName != null) user.FirstName = userUpdateBlo.FirstName;
+            if (userUpdateBlo.LastName != null) user.LastName = userUpdateBlo.LastName;
+            if (userUpdateBlo.Patronymic != null) user.Patronymic = userUpdateBlo.Patronymic;
+            if (userUpdateBlo.Birthday != null) user.Birthday = userUpdateBlo.Birthday;
+            if (userUpdateBlo.AvatarUrl != null) user.AvatarUrl = userUpdateBlo.AvatarUrl;
 
             await _context.SaveChangesAsync();
 
@@ -119,7 +119,7 @@ namespace ServernewRUB.BusinessLogic.Serices
             if (userRto == null)
                 throw new ArgumentNullException(nameof(UserRto));
 
-           UserInformationBlo userInformationBlo = _mapper.Map<UserInformationBlo>(userRto);
+            UserInformationBlo userInformationBlo = _mapper.Map<UserInformationBlo>(userRto);
 
             return userInformationBlo;
         }

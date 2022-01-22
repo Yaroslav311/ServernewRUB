@@ -9,7 +9,6 @@ namespace ServernewRUB.DataAccess.Core.Interfaces.DbcContext
     public interface IRubicContext : IDisposable, IAsyncDisposable
     {
         DbSet<UserRto> Users { get; set; }
-        DbSet<UserRoleRto> UserRoles { get; set; }
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     }
 }

@@ -13,7 +13,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using ServernewRUB.AutomapperProfile;
 using ServernewRUB.BusinessLogic.AutoMapperProfile;
+using ServernewRUB.BusinessLogic.Core.interfaces;
+using ServernewRUB.BusinessLogic.Serices;
 using ServernewRUB.Core.Models;
 using ServernewRUB.DataAccess.Core.Interfaces.DbcContext;
 using ServernewRUB.DataAccess.DbContext;
@@ -32,9 +35,13 @@ namespace ServernewRUB
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
-            services.AddAutoMapper(typeof(BusinessLogicProfile), typeof(UserInformationDto));
+            services.AddAutoMapper(typeof(BusinessLogicProfile), typeof(MicroserviceProfile));
             services.AddDbContext<IRubicContext, RubicConext>(o => o.UseSqlite("Data Source=usersdata.db; Foreign Keys=True"));
+
+            services.AddScoped<IUserService, UserService>();
+            services.AddControllers();
+
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +51,8 @@ namespace ServernewRUB
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors(p => p.AllowAnyMethod().AllowAnyHeader());
 
             app.UseRouting();
 

@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\bin\Debug\netcoreapp3.1\ServernewRUB.Shared.deps.json
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\bin\Debug\netcoreapp3.1\ServernewRUB.Shared.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\bin\Debug\netcoreapp3.1\ServernewRUB.Shared.pdb
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\obj\Debug\netcoreapp3.1\ServernewRUB.Shared.csprojAssemblyReference.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\obj\Debug\netcoreapp3.1\ServernewRUB.Shared.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\obj\Debug\netcoreapp3.1\ServernewRUB.Shared.AssemblyInfo.cs
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\obj\Debug\netcoreapp3.1\ServernewRUB.Shared.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\obj\Debug\netcoreapp3.1\ServernewRUB.Shared.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.Shared\obj\Debug\netcoreapp3.1\ServernewRUB.Shared.pdb

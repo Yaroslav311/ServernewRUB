@@ -19,7 +19,6 @@ namespace ServernewRUB.DataAccess.Core.Models
         public DateTimeOffset Birthday { get; set; }
         public string AvatarUrl { get; set; }
         public string Introduction { get; set; }
-        public UserRoleRto Role { get; set; }
 
         [NotMapped]
         public string GetFullName

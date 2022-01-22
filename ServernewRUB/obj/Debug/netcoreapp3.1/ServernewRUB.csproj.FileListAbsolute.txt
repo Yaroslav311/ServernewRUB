@@ -54,3 +54,5 @@ C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB\bin\Debug\netcoreapp3.1\Au
 C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB\bin\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.Core.dll
 C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB\bin\Debug\netcoreapp3.1\ServernewRUB.Core.dll
 C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB\bin\Debug\netcoreapp3.1\ServernewRUB.BusinessLogic.Core.pdb
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB\obj\Debug\netcoreapp3.1\ServernewRUB.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB\obj\Debug\netcoreapp3.1\ServernewRUB.MvcApplicationPartsAssemblyInfo.cache

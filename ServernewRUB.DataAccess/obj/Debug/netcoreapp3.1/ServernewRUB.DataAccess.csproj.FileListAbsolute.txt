@@ -5,3 +5,11 @@ C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netco
 C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.AssemblyInfo.cs
 C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.dll
 C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.pdb
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.runtimeconfig.json
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.runtimeconfig.dev.json
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.dll
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\bin\Debug\netcoreapp3.1\ServernewRUB.DataAccess.Core.pdb
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.csprojAssemblyReference.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.csproj.CopyComplete
+C:\Users\StudentDev\Desktop\ServernewRUB\ServernewRUB.DataAccess\obj\Debug\netcoreapp3.1\ServernewRUB.DataAccess.genruntimeconfig.cache
