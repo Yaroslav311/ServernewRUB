@@ -888,6 +888,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\StudentDev\\Desktop\\ServernewRUB\\ServernewRUB.BusinessLogic.Core\\ServernewRUB.BusinessLogic.Core.csproj": {
               "projectPath": "C:\\Users\\StudentDev\\Desktop\\ServernewRUB\\ServernewRUB.BusinessLogic.Core\\ServernewRUB.BusinessLogic.Core.csproj"
@@ -909,6 +910,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -930,7 +932,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
